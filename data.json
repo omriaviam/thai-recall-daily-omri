@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "w001",
+    "example": "I'm not feeling well today.",
+    "examplePronunciation": "wan-níi phǒm mâi-sà-baai khráp",
+    "meaning": "Unwell; not feeling well",
+    "pronunciation": "mâi-sà-baai",
+    "thai": "ไม่สบาย",
+    "page": 1
+  },
+  {
+    "id": "w002",
+    "example": "May I sit here?",
+    "examplePronunciation": "nâng dtrong-níi dâi-mǎi khráp",
+    "meaning": "Can I/you?; is it possible?",
+    "pronunciation": "dâi-mǎi",
+    "thai": "ได้ไหม",
+    "page": 1
+  },
+  {
+    "id": "w003",
+    "example": "I can hear the rain.",
+    "examplePronunciation": "phǒm dâi-yin sǐiang fǒn",
+    "meaning": "To hear",
+    "pronunciation": "dâi-yin",
+    "thai": "ได้ยิน",
+    "page": 1
+  },
+  {
+    "id": "w004",
+    "example": "Can you hear me?",
+    "examplePronunciation": "dâi-yin phǒm mǎi khráp",
+    "meaning": "Can you hear (me/it)?",
+    "pronunciation": "dâi-yin-mǎi",
+    "thai": "ได้ยินไหม",
+    "page": 1
+  },
+  {
+    "id": "w005",
+    "example": "When will you go?",
+    "examplePronunciation": "khun jà bpai mûea-rai khráp",
+    "meaning": "When?",
+    "pronunciation": "mûea-rai",
+    "thai": "เมื่อไร",
+    "page": 1
+  },
+  {
+    "id": "w006",
+    "example": "Which shop sells coffee?",
+    "examplePronunciation": "ráan-nǎi khǎai gaa-fɛɛ khráp",
+    "meaning": "Which shop?",
+    "pronunciation": "ráan-nǎi",
+    "thai": "ร้านไหน",
+    "page": 1
+  },
+  {
+    "id": "w007",
+    "example": "Oh, you're off today?",
+    "examplePronunciation": "wan-níi khun yùt rǒe",
+    "meaning": "Really?; is that so?",
+    "pronunciation": "rǒe",
+    "thai": "เหรอ",
+    "page": 1
+  },
+  {
+    "id": "w008",
+    "example": "Are you really going tomorrow?",
+    "examplePronunciation": "khun jà bpai phrûng-níi jing-rǒe",
+    "meaning": "Really?; is that true?",
+    "pronunciation": "jing-rǒe",
+    "thai": "จริงเหรอ",
+    "page": 1
+  },
+  {
+    "id": "w009",
+    "example": "The food at this restaurant is really delicious.",
+    "examplePronunciation": "aa-hǎan ráan-níi à-rɔ̀i jing-jing",
+    "meaning": "Really; truly",
+    "pronunciation": "jing-jing",
+    "thai": "จริง ๆ",
+    "page": 2
+  },
+  {
+    "id": "w010",
+    "example": "I don't know.",
+    "examplePronunciation": "phǒm mâi-rúu khráp",
+    "meaning": "Don't know",
+    "pronunciation": "mâi-rúu",
+    "thai": "ไม่รู้",
+    "page": 2
+  },
+  {
+    "id": "w011",
+    "example": "See you tomorrow.",
+    "examplePronunciation": "phrûng-níi jəə-gan khráp",
+    "meaning": "See you; meet up",
+    "pronunciation": "jəə-gan",
+    "thai": "เจอกัน",
+    "page": 2
+  },
+  {
+    "id": "w012",
+    "example": "How was work today?",
+    "examplePronunciation": "ngaan wan-níi bpen-yang-ngai-bâang",
+    "meaning": "How is/was it?; how's it going?",
+    "pronunciation": "bpen-yang-ngai-bâang",
+    "thai": "เป็นยังไง บ้าง",
+    "page": 2
+  },
+  {
+    "id": "w013",
+    "example": "Have you eaten yet?",
+    "examplePronunciation": "gin khâao rʉ̌ʉ-yang khráp",
+    "meaning": "Yet?; already or not yet?",
+    "pronunciation": "rʉ̌ʉ-yang",
+    "thai": "หรือยัง",
+    "page": 2
+  },
+  {
+    "id": "w014",
+    "example": "Could you say it again?",
+    "examplePronunciation": "phûut ìik-khráng dâi-mǎi khráp",
+    "meaning": "Again; one more time",
+    "pronunciation": "ìik-khráng",
+    "thai": "อีกครั้ง",
+    "page": 2
+  },
+  {
+    "id": "w015",
+    "example": "This one is like that one.",
+    "examplePronunciation": "an-níi mʉ̌an an-nán",
+    "meaning": "Like; similar to; as if",
+    "pronunciation": "mʉ̌an",
+    "thai": "เหมือน",
+    "page": 2
+  },
+  {
+    "id": "w016",
+    "example": "I only have one hour.",
+    "examplePronunciation": "phǒm mii wee-laa khâe chûa-moong diao",
+    "meaning": "Just; only",
+    "pronunciation": "khâe",
+    "thai": "แค่",
+    "page": 3
+  },
+  {
+    "id": "w017",
+    "example": "It might rain tomorrow.",
+    "examplePronunciation": "phrûng-níi àat-jà fǒn-dtòk",
+    "meaning": "Maybe; might",
+    "pronunciation": "àat-jà",
+    "thai": "อาจจะ",
+    "page": 3
+  },
+  {
+    "id": "w018",
+    "example": "If it rains, I'll stay home.",
+    "examplePronunciation": "thâa fǒn-dtòk phǒm jà yùu bâan",
+    "meaning": "If",
+    "pronunciation": "thâa",
+    "thai": "ถ้า",
+    "page": 3
+  },
+  {
+    "id": "w019",
+    "example": "I'm staying home because it's raining.",
+    "examplePronunciation": "phǒm yùu bâan phrɔ́-wâa fǒn-dtòk",
+    "meaning": "Because",
+    "pronunciation": "phrɔ́-wâa",
+    "thai": "เพราะว่า",
+    "page": 3
+  },
+  {
+    "id": "w020",
+    "example": "It rained, so I stayed home.",
+    "examplePronunciation": "fǒn-dtòk phǒm gɔ̂ɔ-loei yùu bâan",
+    "meaning": "So; therefore; as a result",
+    "pronunciation": "gɔ̂ɔ-loei",
+    "thai": "ก็เลย",
+    "page": 3
+  },
+  {
+    "id": "w021",
+    "example": "I ate and then went to work.",
+    "examplePronunciation": "phǒm gin khâao láew-gɔ̂ɔ bpai tham-ngaan",
+    "meaning": "And then; and also",
+    "pronunciation": "láew-gɔ̂ɔ",
+    "thai": "แล้วก็",
+    "page": 3
+  },
+  {
+    "id": "w022",
+    "example": "I like the sea and mountains.",
+    "examplePronunciation": "phǒm chɔ̂ɔp thá-lee láe phuu-khǎo",
+    "meaning": "And",
+    "pronunciation": "láe",
+    "thai": "และ",
+    "page": 4
+  },
+  {
+    "id": "w023",
+    "example": "I went with a friend.",
+    "examplePronunciation": "phǒm bpai gàp phûean",
+    "meaning": "With; and (linking nouns)",
+    "pronunciation": "gàp",
+    "thai": "กับ",
+    "page": 4
+  },
+  {
+    "id": "w024",
+    "example": "Follow this road.",
+    "examplePronunciation": "bpai dtaam thaang-níi khráp",
+    "meaning": "Follow; according to",
+    "pronunciation": "dtaam",
+    "thai": "ตาม",
+    "page": 4
+  },
+  {
+    "id": "w025",
+    "example": "No problem.",
+    "examplePronunciation": "mâi-bpen-rai khráp",
+    "meaning": "No problem; it's okay; you're welcome",
+    "pronunciation": "mâi-bpen-rai",
+    "thai": "ไม่เป็นไร",
+    "page": 4
+  },
+  {
+    "id": "w026",
+    "example": "What happened?",
+    "examplePronunciation": "gə̀ət à-rai khʉ̂n khráp",
+    "meaning": "What happened?; what's going on?",
+    "pronunciation": "gə̀ət-à-rai-khʉ̂n",
+    "thai": "เกิดอะไรขึ้น",
+    "page": 4
+  },
+  {
+    "id": "w027",
+    "example": "I believe in luck.",
+    "examplePronunciation": "phǒm chʉ̂a rʉ̂ang chôok",
+    "meaning": "Luck; fortune",
+    "pronunciation": "chôok",
+    "thai": "โชค",
+    "page": 4
+  },
+  {
+    "id": "w028",
+    "example": "Good luck!",
+    "examplePronunciation": "chôok-dii ná khráp",
+    "meaning": "Good luck; lucky",
+    "pronunciation": "chôok-dii",
+    "thai": "โชคดี",
+    "page": 4
+  },
+  {
+    "id": "w029",
+    "example": "Is there anything else?",
+    "examplePronunciation": "mii à-rai ìik mǎi khráp",
+    "meaning": "What else?",
+    "pronunciation": "à-rai-ìik",
+    "thai": "อะไรอีก",
+    "page": 4
+  },
+  {
+    "id": "w030",
+    "example": "Where else should we go?",
+    "examplePronunciation": "rao jà bpai thîi-nǎi ìik dii",
+    "meaning": "Where else?",
+    "pronunciation": "thîi-nǎi-ìik",
+    "thai": "ที่ไหนอีก",
+    "page": 5
+  },
+  {
+    "id": "w031",
+    "example": "Would you like tea or coffee?",
+    "examplePronunciation": "khun jà ao chaa rʉ̌ʉ gaa-fɛɛ",
+    "meaning": "Or",
+    "pronunciation": "rʉ̌ʉ",
+    "thai": "หรือ",
+    "page": 5
+  },
+  {
+    "id": "w032",
+    "example": "We talked about work.",
+    "examplePronunciation": "rao khui gìao-gàp ngaan",
+    "meaning": "About; regarding",
+    "pronunciation": "gìao-gàp",
+    "thai": "เกี่ยวกับ",
+    "page": 5
+  },
+  {
+    "id": "w033",
+    "example": "I'm working today.",
+    "examplePronunciation": "wan-níi phǒm tham-ngaan",
+    "meaning": "Today",
+    "pronunciation": "wan-níi",
+    "thai": "วันนี้",
+    "page": 5
+  },
+  {
+    "id": "w034",
+    "example": "I went to the market yesterday.",
+    "examplePronunciation": "mûea-waan phǒm bpai dtà-làat",
+    "meaning": "Yesterday",
+    "pronunciation": "mûea-waan",
+    "thai": "เมื่อวาน",
+    "page": 5
+  },
+  {
+    "id": "w035",
+    "example": "I'm going to the beach tomorrow.",
+    "examplePronunciation": "phrûng-níi phǒm jà bpai thá-lee",
+    "meaning": "Tomorrow",
+    "pronunciation": "phrûng-níi",
+    "thai": "พรุ่งนี้",
+    "page": 5
+  },
+  {
+    "id": "w036",
+    "example": "I waited one hour.",
+    "examplePronunciation": "phǒm rɔɔ nʉ̀ng chûa-moong",
+    "meaning": "Hour",
+    "pronunciation": "chûa-moong",
+    "thai": "ชั่วโมง",
+    "page": 5
+  },
+  {
+    "id": "w037",
+    "example": "I drink coffee in the morning.",
+    "examplePronunciation": "dtɔɔn-cháo phǒm dʉ̀ʉm gaa-fɛɛ",
+    "meaning": "At the time of; during; when",
+    "pronunciation": "dtɔɔn",
+    "thai": "ตอน",
+    "page": 6
+  },
+  {
+    "id": "w038",
+    "example": "I eat eggs in the morning.",
+    "examplePronunciation": "dtɔɔn-cháo phǒm gin khài",
+    "meaning": "In the morning",
+    "pronunciation": "dtɔɔn-cháo",
+    "thai": "ตอนเช้า",
+    "page": 6
+  },
+  {
+    "id": "w039",
+    "example": "Let's go for a walk this evening.",
+    "examplePronunciation": "dtɔɔn-yen rao bpai dəən-lên gan",
+    "meaning": "In the late afternoon/evening",
+    "pronunciation": "dtɔɔn-yen",
+    "thai": "ตอนเย็น",
+    "page": 6
+  },
+  {
+    "id": "w040",
+    "example": "After work, I went to eat.",
+    "examplePronunciation": "lǎng-jàak tham-ngaan phǒm bpai gin khâao",
+    "meaning": "After",
+    "pronunciation": "lǎng-jàak",
+    "thai": "หลังจาก",
+    "page": 6
+  },
+  {
+    "id": "w041",
+    "example": "I came here last year.",
+    "examplePronunciation": "phǒm maa thîi-nîi bpii-thîi-láew",
+    "meaning": "Last; previous (with time noun)",
+    "pronunciation": "thîi-láew",
+    "thai": "ที่แล้ว",
+    "page": 6
+  },
+  {
+    "id": "w042",
+    "example": "I've been twice already.",
+    "examplePronunciation": "phǒm bpai sɔ̌ɔng khráng láew",
+    "meaning": "Time; occasion (counter)",
+    "pronunciation": "khráng",
+    "thai": "ครั้ง",
+    "page": 6
+  },
+  {
+    "id": "w043",
+    "example": "Last time was a lot of fun.",
+    "examplePronunciation": "khráng-thîi-láew sà-nùk mâak",
+    "meaning": "Last time",
+    "pronunciation": "khráng-thîi-láew",
+    "thai": "ครั้งที่แล้ว",
+    "page": 7
+  },
+  {
+    "id": "w044",
+    "example": "Last year I lived in Chiang Mai.",
+    "examplePronunciation": "bpii-thîi-láew phǒm yùu chiang-mài",
+    "meaning": "Last year",
+    "pronunciation": "bpii-thîi-láew",
+    "thai": "ปีที่แล้ว",
+    "page": 7
+  },
+  {
+    "id": "w045",
+    "example": "I went traveling last month.",
+    "examplePronunciation": "dʉan-thîi-láew phǒm bpai thîao",
+    "meaning": "Last month",
+    "pronunciation": "dʉan-thîi-láew",
+    "thai": "เดือนที่แล้ว",
+    "page": 7
+  },
+  {
+    "id": "w046",
+    "example": "It rained every day last week.",
+    "examplePronunciation": "aa-thít-thîi-láew fǒn-dtòk thúk-wan",
+    "meaning": "Last week",
+    "pronunciation": "aa-thít-thîi-láew",
+    "thai": "อาทิตย์ที่ แล้ว",
+    "page": 7
+  },
+  {
+    "id": "w047",
+    "example": "What's the next station?",
+    "examplePronunciation": "sà-thǎa-nii thàt-bpai khʉʉ à-rai khráp",
+    "meaning": "Next; following",
+    "pronunciation": "thàt-bpai",
+    "thai": "ถัดไป",
+    "page": 7
+  },
+  {
+    "id": "w048",
+    "example": "I'm still working.",
+    "examplePronunciation": "phǒm yang tham-ngaan yùu",
+    "meaning": "Still; yet",
+    "pronunciation": "yang",
+    "thai": "ยัง",
+    "page": 7
+  },
+  {
+    "id": "w049",
+    "example": "I haven't been to Ayutthaya yet.",
+    "examplePronunciation": "phǒm yang-mâi-khoei bpai à-yút-thá-yaa",
+    "meaning": "Have never ... yet",
+    "pronunciation": "yang-mâi-khoei",
+    "thai": "ยังไม่เคย",
+    "page": 8
+  },
+  {
+    "id": "w050",
+    "example": "Have you ever been to Chiang Mai?",
+    "examplePronunciation": "khun khoei bpai chiang-mài mǎi khráp",
+    "meaning": "Ever; used to (experience)",
+    "pronunciation": "khoei",
+    "thai": "เคย",
+    "page": 8
+  },
+  {
+    "id": "w051",
+    "example": "Tomorrow is a holiday.",
+    "examplePronunciation": "phrûng-níi bpen wan-yùt",
+    "meaning": "Day off; holiday",
+    "pronunciation": "wan-yùt",
+    "thai": "วันหยุด",
+    "page": 8
+  },
+  {
+    "id": "w052",
+    "example": "Monday is a public holiday.",
+    "examplePronunciation": "wan-jan bpen wan-yùt-nák-khàt-dtà-rə̂ək",
+    "meaning": "Public holiday; official holiday",
+    "pronunciation": "wan-yùt-nák-khàt-dtà-rə̂ək",
+    "thai": "วันหยุด นักขัตฤกษ์",
+    "page": 8
+  },
+  {
+    "id": "w053",
+    "example": "I've been there many times.",
+    "examplePronunciation": "phǒm bpai thîi-nân lǎai-khráng",
+    "meaning": "Several times; many times",
+    "pronunciation": "lǎai-khráng",
+    "thai": "หลายครั้ง",
+    "page": 8
+  },
+  {
+    "id": "w054",
+    "example": "I've lived in Thailand for several years.",
+    "examplePronunciation": "phǒm yùu thai maa lǎai-bpii láew",
+    "meaning": "Several years; many years",
+    "pronunciation": "lǎai-bpii",
+    "thai": "หลายปี",
+    "page": 8
+  },
+  {
+    "id": "w055",
+    "example": "I've already eaten.",
+    "examplePronunciation": "phǒm gin khâao láew khráp",
+    "meaning": "Already; marks a completed action",
+    "pronunciation": "láew",
+    "thai": "แล้ว",
+    "page": 9
+  },
+  {
+    "id": "w056",
+    "example": "I'm going sightseeing tomorrow.",
+    "examplePronunciation": "phrûng-níi phǒm jà bpai thîao",
+    "meaning": "Will; going to (future marker)",
+    "pronunciation": "jà",
+    "thai": "จะ",
+    "page": 9
+  },
+  {
+    "id": "w057",
+    "example": "Today is my birthday.",
+    "examplePronunciation": "wan-níi bpen wan-gə̀ət phǒm",
+    "meaning": "Birthday",
+    "pronunciation": "wan-gə̀ət",
+    "thai": "วันเกิด",
+    "page": 9
+  },
+  {
+    "id": "w058",
+    "example": "What time is the next session?",
+    "examplePronunciation": "rɔ̂ɔp thàt-bpai gìi moong khráp",
+    "meaning": "Round; turn; session; scheduled departure",
+    "pronunciation": "rɔ̂ɔp",
+    "thai": "รอบ",
+    "page": 9
+  },
+  {
+    "id": "w059",
+    "example": "At that time I lived in Chiang Mai.",
+    "examplePronunciation": "dtɔɔn-nán phǒm yùu chiang-mài",
+    "meaning": "At that time; back then",
+    "pronunciation": "dtɔɔn-nán",
+    "thai": "ตอนนั้น",
+    "page": 9
+  },
+  {
+    "id": "w060",
+    "example": "One more glass, please.",
+    "examplePronunciation": "khɔ̌ɔ ìik nʉ̀ng gâew khráp",
+    "meaning": "More; another; again; else",
+    "pronunciation": "ìik",
+    "thai": "อีก",
+    "page": 9
+  },
+  {
+    "id": "w061",
+    "example": "In the end, I went home.",
+    "examplePronunciation": "sùt-tháai phǒm gɔ̂ɔ glàp-bâan",
+    "meaning": "Finally; last; in the end",
+    "pronunciation": "sùt-tháai",
+    "thai": "สุดท้าย",
+    "page": 9
+  },
+  {
+    "id": "w062",
+    "example": "I've lived in Thailand for a long time.",
+    "examplePronunciation": "phǒm yùu thai maa naan láew",
+    "meaning": "A long time; for a long time",
+    "pronunciation": "naan",
+    "thai": "นาน",
+    "page": 10
+  },
+  {
+    "id": "w063",
+    "example": "I'll go home soon.",
+    "examplePronunciation": "phǒm jà glàp-bâan reo-reo-níi",
+    "meaning": "Soon; shortly",
+    "pronunciation": "reo-reo-níi",
+    "thai": "เร็ว ๆ นี้",
+    "page": 10
+  },
+  {
+    "id": "w064",
+    "example": "There are lots of people in this shop.",
+    "examplePronunciation": "ráan-níi khon-yə́",
+    "meaning": "Person; people; classifier for people",
+    "pronunciation": "khon",
+    "thai": "คน",
+    "page": 10
+  },
+  {
+    "id": "w065",
+    "example": "I went with a friend.",
+    "examplePronunciation": "phǒm bpai gàp phûean",
+    "meaning": "Friend",
+    "pronunciation": "phûean",
+    "thai": "เพื่อน",
+    "page": 10
+  },
+  {
+    "id": "w066",
+    "example": "That woman is my friend.",
+    "examplePronunciation": "phûu-yǐng khon-nán bpen phûean phǒm",
+    "meaning": "Woman; female",
+    "pronunciation": "phûu-yǐng",
+    "thai": "ผู้หญิง",
+    "page": 10
+  },
+  {
+    "id": "w067",
+    "example": "There are many tourists here.",
+    "examplePronunciation": "thîi-nîi mii nák-thɔ̂ng-thîao yə́",
+    "meaning": "Tourist",
+    "pronunciation": "nák-thɔ̂ng-thîao",
+    "thai": "นักท่องเที่ยว",
+    "page": 10
+  },
+  {
+    "id": "w068",
+    "example": "There are a lot of people today.",
+    "examplePronunciation": "wan-níi khon-yə́",
+    "meaning": "A lot; many (colloquial)",
+    "pronunciation": "yə́",
+    "thai": "เยอะ",
+    "page": 10
+  },
+  {
+    "id": "w069",
+    "example": "This place is very crowded.",
+    "examplePronunciation": "ráan-níi khon-yə́ mâak",
+    "meaning": "Many people; crowded",
+    "pronunciation": "khon-yə́",
+    "thai": "คนเยอะ",
+    "page": 11
+  },
+  {
+    "id": "w070",
+    "example": "There's a lot of food here.",
+    "examplePronunciation": "thîi-nîi mii aa-hǎan-yə́",
+    "meaning": "A lot of food",
+    "pronunciation": "aa-hǎan-yə́",
+    "thai": "อาหารเยอะ",
+    "page": 11
+  },
+  {
+    "id": "w071",
+    "example": "I have several friends.",
+    "examplePronunciation": "phǒm mii phûean lǎai-khon",
+    "meaning": "Several; many (before a noun/classifier)",
+    "pronunciation": "lǎai",
+    "thai": "หลาย",
+    "page": 11
+  },
+  {
+    "id": "w072",
+    "example": "Many people like the sea.",
+    "examplePronunciation": "lǎai-khon chɔ̂ɔp thá-lee",
+    "meaning": "Several people; many people",
+    "pronunciation": "lǎai-khon",
+    "thai": "หลายคน",
+    "page": 11
+  },
+  {
+    "id": "w073",
+    "example": "I've been to several places.",
+    "examplePronunciation": "phǒm bpai maa lǎai-thîi láew",
+    "meaning": "Several places",
+    "pronunciation": "lǎai-thîi",
+    "thai": "หลายที่",
+    "page": 11
+  },
+  {
+    "id": "w074",
+    "example": "I have a Thai friend.",
+    "examplePronunciation": "phǒm mii phûean khon-thai",
+    "meaning": "To have; there is/are",
+    "pronunciation": "mii",
+    "thai": "มี",
+    "page": 11
+  },
+  {
+    "id": "w075",
+    "example": "I have two Thai friends.",
+    "examplePronunciation": "phǒm mii phûean khon-thai sɔ̌ɔng-khon",
+    "meaning": "I have a Thai friend",
+    "pronunciation": "phǒm-mii-phûean-khon-thai",
+    "thai": "ผมมีเพื่อน คนไทย",
+    "page": 11
+  },
+  {
+    "id": "w076",
+    "example": "I ate a lot today.",
+    "examplePronunciation": "wan-níi phǒm gin-yə́",
+    "meaning": "Eat a lot",
+    "pronunciation": "gin-yə́",
+    "thai": "กินเยอะ",
+    "page": 11
+  },
+  {
+    "id": "w077",
+    "example": "There are more people here than there.",
+    "examplePronunciation": "thîi-nîi mii khon mâak-gwàa thîi-nân",
+    "meaning": "More than; a greater amount",
+    "pronunciation": "mâak-gwàa",
+    "thai": "มากกว่า",
+    "page": 12
+  },
+  {
+    "id": "w078",
+    "example": "I can speak a little Thai.",
+    "examplePronunciation": "phǒm phûut phaa-sǎa-thai dâi nít-nɔ̀i",
+    "meaning": "A little; a bit",
+    "pronunciation": "nít-nɔ̀i",
+    "thai": "นิดหน่อย",
+    "page": 12
+  },
+  {
+    "id": "w079",
+    "example": "There are so many people here.",
+    "examplePronunciation": "thîi-nîi khon yə́-mâak",
+    "meaning": "A great many; a lot; very crowded (context-dependent)",
+    "pronunciation": "yə́-mâak",
+    "thai": "เยอะมาก",
+    "page": 12
+  },
+  {
+    "id": "w080",
+    "example": "How many people are there?",
+    "examplePronunciation": "mii gìi khon khráp",
+    "meaning": "How many?; how much? (before a classifier)",
+    "pronunciation": "gìi",
+    "thai": "กี่",
+    "page": 12
+  },
+  {
+    "id": "w081",
+    "example": "I came alone today.",
+    "examplePronunciation": "wan-níi phǒm maa khon-diao",
+    "meaning": "Alone; by oneself",
+    "pronunciation": "khon-diao",
+    "thai": "คนเดียว",
+    "page": 12
+  },
+  {
+    "id": "w082",
+    "example": "I mostly work from home.",
+    "examplePronunciation": "sùan-yài phǒm tham-ngaan thîi bâan",
+    "meaning": "Mostly; for the most part; majority",
+    "pronunciation": "sùan-yài",
+    "thai": "ส่วนใหญ่",
+    "page": 12
+  },
+  {
+    "id": "w083",
+    "example": "My family lives in Thailand.",
+    "examplePronunciation": "khrɔ̂ɔp-khrua phǒm yùu thîi thai",
+    "meaning": "Family",
+    "pronunciation": "khrɔ̂ɔp-khrua",
+    "thai": "ครอบครัว",
+    "page": 13
+  },
+  {
+    "id": "w084",
+    "example": "This student can speak Thai.",
+    "examplePronunciation": "nák-rian khon-níi phûut phaa-sǎa-thai dâi",
+    "meaning": "Student; pupil",
+    "pronunciation": "nák-rian",
+    "thai": "นักเรียน",
+    "page": 13
+  },
+  {
+    "id": "w085",
+    "example": "Where is she?",
+    "examplePronunciation": "thəə yùu thîi-nǎi",
+    "meaning": "She; her; you (informal)",
+    "pronunciation": "thəə",
+    "thai": "เธอ",
+    "page": 13
+  },
+  {
+    "id": "w086",
+    "example": "What time does this shop open?",
+    "examplePronunciation": "ráan-níi bpə̀ət gìi-moong khráp",
+    "meaning": "Shop; store; establishment",
+    "pronunciation": "ráan",
+    "thai": "ร้าน",
+    "page": 13
+  },
+  {
+    "id": "w087",
+    "example": "This restaurant is good.",
+    "examplePronunciation": "ráan-aa-hǎan-níi à-rɔ̀i",
+    "meaning": "Restaurant",
+    "pronunciation": "ráan-aa-hǎan",
+    "thai": "ร้านอาหาร",
+    "page": 13
+  },
+  {
+    "id": "w088",
+    "example": "Where is the café?",
+    "examplePronunciation": "ráan-gaa-fɛɛ yùu-nǎi khráp",
+    "meaning": "Coffee shop; café",
+    "pronunciation": "ráan-gaa-fɛɛ",
+    "thai": "ร้านกาแฟ",
+    "page": 13
+  },
+  {
+    "id": "w089",
+    "example": "Is there a pharmacy nearby?",
+    "examplePronunciation": "ráan-yaa yùu-glâi mǎi khráp",
+    "meaning": "Pharmacy; drugstore",
+    "pronunciation": "ráan-yaa",
+    "thai": "ร้านยา",
+    "page": 13
+  },
+  {
+    "id": "w090",
+    "example": "Is there a massage shop around here?",
+    "examplePronunciation": "thǎew-níi mii ráan-nûat mǎi khráp",
+    "meaning": "Massage shop",
+    "pronunciation": "ráan-nûat",
+    "thai": "ร้านนวด",
+    "page": 13
+  },
+  {
+    "id": "w091",
+    "example": "I go to the market in the morning.",
+    "examplePronunciation": "phǒm bpai dtà-làat dtɔɔn-cháo",
+    "meaning": "Market",
+    "pronunciation": "dtà-làat",
+    "thai": "ตลาด",
+    "page": 14
+  },
+  {
+    "id": "w092",
+    "example": "This one is cheaper than that one.",
+    "examplePronunciation": "an-níi thùuk gwàa an-nán",
+    "meaning": "Cheap; correct; right",
+    "pronunciation": "thùuk",
+    "thai": "ถูก",
+    "page": 14
+  },
+  {
+    "id": "w093",
+    "example": "This is too expensive.",
+    "examplePronunciation": "an-níi phaeng bpai khráp",
+    "meaning": "Expensive",
+    "pronunciation": "phaeng",
+    "thai": "แพง",
+    "page": 14
+  },
+  {
+    "id": "w094",
+    "example": "Could you give me a discount?",
+    "examplePronunciation": "lót-raa-khaa dâi-mǎi khráp",
+    "meaning": "Reduce the price; give a discount",
+    "pronunciation": "lót-raa-khaa",
+    "thai": "ลดราคา",
+    "page": 14
+  },
+  {
+    "id": "w095",
+    "example": "Could you lower the price?",
+    "examplePronunciation": "lót-raa-khaa dâi-mǎi khráp",
+    "meaning": "Can you lower the price?",
+    "pronunciation": "lót-raa-khaa-dâi-mǎi",
+    "thai": "ลดราคาได้ ไหม",
+    "page": 14
+  },
+  {
+    "id": "w096",
+    "example": "I've been to Koh Chang.",
+    "examplePronunciation": "phǒm khoei bpai gɔ̀-cháang",
+    "meaning": "Koh Chang (island)",
+    "pronunciation": "gɔ̀-cháang",
+    "thai": "เกาะช้าง",
+    "page": 14
+  },
+  {
+    "id": "w097",
+    "example": "I'm going to Chiang Mai tomorrow.",
+    "examplePronunciation": "phrûng-níi phǒm bpai chiang-mài",
+    "meaning": "Chiang Mai (city)",
+    "pronunciation": "chiang-mài",
+    "thai": "เชียงใหม่",
+    "page": 14
+  },
+  {
+    "id": "w098",
+    "example": "I haven't visited Ayutthaya yet.",
+    "examplePronunciation": "phǒm yang-mâi-khoei bpai à-yút-thá-yaa",
+    "meaning": "Ayutthaya (city)",
+    "pronunciation": "à-yút-thá-yaa",
+    "thai": "อยุธยา",
+    "page": 15
+  },
+  {
+    "id": "w099",
+    "example": "I like walking on the beach.",
+    "examplePronunciation": "phǒm chɔ̂ɔp dəən-lên thîi chaai-hàat",
+    "meaning": "Beach; sandy shore",
+    "pronunciation": "chaai-hàat",
+    "thai": "ชายหาด",
+    "page": 15
+  },
+  {
+    "id": "w100",
+    "example": "The sea is very beautiful.",
+    "examplePronunciation": "thá-lee sǔai mâak",
+    "meaning": "Sea; ocean",
+    "pronunciation": "thá-lee",
+    "thai": "ทะเล",
+    "page": 15
+  },
+  {
+    "id": "w101",
+    "example": "I want to travel abroad.",
+    "examplePronunciation": "phǒm yàak bpai thîao dtàang-bprà-thêet",
+    "meaning": "Abroad; foreign countries",
+    "pronunciation": "dtàang-bprà-thêet",
+    "thai": "ต่างประเทศ",
+    "page": 15
+  },
+  {
+    "id": "w102",
+    "example": "I'm going to the temple today.",
+    "examplePronunciation": "wan-níi phǒm bpai wát",
+    "meaning": "Temple (Buddhist)",
+    "pronunciation": "wát",
+    "thai": "วัด",
+    "page": 15
+  },
+  {
+    "id": "w103",
+    "example": "The coffee shop is near here.",
+    "examplePronunciation": "ráan-gaa-fɛɛ yùu glâi thîi-nîi",
+    "meaning": "Near; close",
+    "pronunciation": "glâi",
+    "thai": "ใกล้",
+    "page": 15
+  },
+  {
+    "id": "w104",
+    "example": "Is the temple far away?",
+    "examplePronunciation": "wát yùu glai mǎi khráp",
+    "meaning": "Far; distant",
+    "pronunciation": "glai",
+    "thai": "ไกล",
+    "page": 15
+  },
+  {
+    "id": "w105",
+    "example": "Where is the convenience store?",
+    "examplePronunciation": "ráan-sà-dùak-sʉ́ʉ yùu thîi-nǎi khráp",
+    "meaning": "Convenience store",
+    "pronunciation": "ráan-sà-dùak-sʉ́ʉ",
+    "thai": "ร้านสะดวก ซื้อ",
+    "page": 16
+  },
+  {
+    "id": "w106",
+    "example": "I'm going to Kanchanaburi tomorrow.",
+    "examplePronunciation": "phrûng-níi phǒm jà bpai gaan-jà-ná-bù-rii",
+    "meaning": "Kanchanaburi (city/province)",
+    "pronunciation": "gaan-jà-ná-bù-rii",
+    "thai": "กาญจนบุรี",
+    "page": 16
+  },
+  {
+    "id": "w107",
+    "example": "I've been to Vietnam.",
+    "examplePronunciation": "phǒm khoei bpai wîat-naam",
+    "meaning": "Vietnam",
+    "pronunciation": "wîat-naam",
+    "thai": "เวียดนาม",
+    "page": 16
+  },
+  {
+    "id": "w108",
+    "example": "I traveled from Bangkok to Kanchanaburi.",
+    "examplePronunciation": "phǒm dəən-thaang jàak grung-thêep thʉ̌ng gaan-jà-ná-bù-rii",
+    "meaning": "From ... to (places)",
+    "pronunciation": "jàak...thʉ̌ng",
+    "thai": "จาก...ถึง",
+    "page": 16
+  },
+  {
+    "id": "w109",
+    "example": "The traffic is very heavy today.",
+    "examplePronunciation": "wan-níi rót-dtìt mâak",
+    "meaning": "Traffic jam; heavy traffic",
+    "pronunciation": "rót-dtìt",
+    "thai": "รถติด",
+    "page": 16
+  },
+  {
+    "id": "w110",
+    "example": "Where is the parking lot?",
+    "examplePronunciation": "thîi-jɔ̀ɔt-rót yùu nǎi khráp",
+    "meaning": "Parking space; car park; parking lot",
+    "pronunciation": "thîi-jɔ̀ɔt-rót",
+    "thai": "ที่จอดรถ",
+    "page": 16
+  },
+  {
+    "id": "w111",
+    "example": "I came from Bangkok.",
+    "examplePronunciation": "phǒm maa jàak grung-thêep",
+    "meaning": "From",
+    "pronunciation": "jàak",
+    "thai": "จาก",
+    "page": 16
+  },
+  {
+    "id": "w112",
+    "example": "What are you doing today?",
+    "examplePronunciation": "wan-níi khun tham à-rai khráp",
+    "meaning": "To do; to make",
+    "pronunciation": "tham",
+    "thai": "ท า",
+    "page": 16
+  },
+  {
+    "id": "w113",
+    "example": "I met a friend at the market.",
+    "examplePronunciation": "phǒm jəə phûean thîi dtà-làat",
+    "meaning": "Meet; find; encounter",
+    "pronunciation": "jəə",
+    "thai": "เจอ",
+    "page": 16
+  },
+  {
+    "id": "w114",
+    "example": "I like going out on my days off.",
+    "examplePronunciation": "wan-yùt phǒm chɔ̂ɔp bpai thîao",
+    "meaning": "Go out; travel for leisure",
+    "pronunciation": "thîao",
+    "thai": "เที่ยว",
+    "page": 16
+  },
+  {
+    "id": "w115",
+    "example": "I have to travel tomorrow.",
+    "examplePronunciation": "phrûng-níi phǒm dtɔ̂ng dəən-thaang",
+    "meaning": "Travel; make a journey",
+    "pronunciation": "dəən-thaang",
+    "thai": "เดินทาง",
+    "page": 16
+  },
+  {
+    "id": "w116",
+    "example": "Want to hang out with friends this evening?",
+    "examplePronunciation": "yen-níi bpai lên gàp phûean mǎi",
+    "meaning": "Play; hang out",
+    "pronunciation": "lên",
+    "thai": "เล่น",
+    "page": 16
+  },
+  {
+    "id": "w117",
+    "example": "Please turn on the light.",
+    "examplePronunciation": "chûai bpə̀ət fai nɔ̀i khráp",
+    "meaning": "Open; turn on",
+    "pronunciation": "bpə̀ət",
+    "thai": "เปิด",
+    "page": 16
+  },
+  {
+    "id": "w118",
+    "example": "The child is making noise.",
+    "examplePronunciation": "dèk gam-lang rɔ́ɔng",
+    "meaning": "Cry out; sing; make a sound",
+    "pronunciation": "rɔ́ɔng",
+    "thai": "ร้อง",
+    "page": 16
+  },
+  {
+    "id": "w119",
+    "example": "That child is crying.",
+    "examplePronunciation": "dèk khon-nán rɔ́ɔng-hâi",
+    "meaning": "Cry; weep",
+    "pronunciation": "rɔ́ɔng-hâi",
+    "thai": "ร้องไห้",
+    "page": 16
+  },
+  {
+    "id": "w120",
+    "example": "I drink water every day.",
+    "examplePronunciation": "phǒm dʉ̀ʉm náam thúk-wan",
+    "meaning": "Drink",
+    "pronunciation": "dʉ̀ʉm",
+    "thai": "ดื่ม",
+    "page": 17
+  },
+  {
+    "id": "w121",
+    "example": "Have you eaten yet?",
+    "examplePronunciation": "khun gin khâao rʉ̌ʉ-yang khráp",
+    "meaning": "Eat",
+    "pronunciation": "gin",
+    "thai": "กิน",
+    "page": 17
+  },
+  {
+    "id": "w122",
+    "example": "I'd like to order food.",
+    "examplePronunciation": "phǒm yàak sàng aa-hǎan khráp",
+    "meaning": "Order (food; goods)",
+    "pronunciation": "sàng",
+    "thai": "สั่ง",
+    "page": 17
+  },
+  {
+    "id": "w123",
+    "example": "I'll have one Thai tea, please.",
+    "examplePronunciation": "phǒm ao chaa-thai gâew-nʉ̀ng khráp",
+    "meaning": "Want; take; have (when ordering)",
+    "pronunciation": "ao",
+    "thai": "เอา",
+    "page": 17
+  },
+  {
+    "id": "w124",
+    "example": "No sugar, please.",
+    "examplePronunciation": "mâi-sài náam-dtaan ná-khráp",
+    "meaning": "Put in; add; wear",
+    "pronunciation": "sài",
+    "thai": "ใส่",
+    "page": 17
+  },
+  {
+    "id": "w125",
+    "example": "I slept comfortably last night.",
+    "examplePronunciation": "mûea-khʉʉn phǒm nɔɔn-làp sà-baai",
+    "meaning": "Sleep; fall asleep",
+    "pronunciation": "nɔɔn-làp",
+    "thai": "นอนหลับ",
+    "page": 17
+  },
+  {
+    "id": "w126",
+    "example": "I remember now.",
+    "examplePronunciation": "phǒm jam-dâi láew khráp",
+    "meaning": "Remember; recall",
+    "pronunciation": "jam-dâi",
+    "thai": "จ าได้",
+    "page": 17
+  },
+  {
+    "id": "w127",
+    "example": "This is different from that.",
+    "examplePronunciation": "an-níi dtàang jàak an-nán",
+    "meaning": "Different; distinct; foreign (as modifier)",
+    "pronunciation": "dtàang",
+    "thai": "ต่าง",
+    "page": 17
+  },
+  {
+    "id": "w128",
+    "example": "Today was a lot of fun.",
+    "examplePronunciation": "wan-níi sà-nùk mâak",
+    "meaning": "Fun; enjoyable",
+    "pronunciation": "sà-nùk",
+    "thai": "สนุก",
+    "page": 17
+  },
+  {
+    "id": "w129",
+    "example": "This teacher is very strict.",
+    "examplePronunciation": "khruu khon-níi dù mâak",
+    "meaning": "Strict; fierce; scold",
+    "pronunciation": "dù",
+    "thai": "ดุ",
+    "page": 17
+  },
+  {
+    "id": "w130",
+    "example": "I'm learning Thai.",
+    "examplePronunciation": "phǒm gam-lang rian phaa-sǎa-thai",
+    "meaning": "Study; learn",
+    "pronunciation": "rian",
+    "thai": "เรียน",
+    "page": 17
+  },
+  {
+    "id": "w131",
+    "example": "I'm working from home today.",
+    "examplePronunciation": "wan-níi phǒm tham-ngaan thîi bâan",
+    "meaning": "Work; to work",
+    "pronunciation": "tham-ngaan",
+    "thai": "ท างาน",
+    "page": 17
+  },
+  {
+    "id": "w132",
+    "example": "Is tomorrow convenient for you?",
+    "examplePronunciation": "phrûng-níi sà-dùak mǎi khráp",
+    "meaning": "Convenient; available (time)",
+    "pronunciation": "sà-dùak",
+    "thai": "สะดวก",
+    "page": 17
+  },
+  {
+    "id": "w133",
+    "example": "I'm going to buy water.",
+    "examplePronunciation": "phǒm jà sʉ́ʉ náam",
+    "meaning": "Buy; purchase",
+    "pronunciation": "sʉ́ʉ",
+    "thai": "ซื้อ",
+    "page": 17
+  },
+  {
+    "id": "w134",
+    "example": "I can speak a little Thai.",
+    "examplePronunciation": "phǒm phûut phaa-sǎa-thai dâi nít-nɔ̀i",
+    "meaning": "Can; be able to; be possible (after a verb)",
+    "pronunciation": "dâi",
+    "thai": "ได้",
+    "page": 17
+  },
+  {
+    "id": "w135",
+    "example": "I'm going home today.",
+    "examplePronunciation": "wan-níi phǒm jà glàp-bâan",
+    "meaning": "Go home; return home",
+    "pronunciation": "glàp-bâan",
+    "thai": "กลับบ้าน",
+    "page": 17
+  },
+  {
+    "id": "w136",
+    "example": "I'm in Chiang Mai now.",
+    "examplePronunciation": "dtɔɔn-níi phǒm yùu chiang-mài",
+    "meaning": "Be at; live; stay",
+    "pronunciation": "yùu",
+    "thai": "อยู่",
+    "page": 17
+  },
+  {
+    "id": "w137",
+    "example": "What happened yesterday?",
+    "examplePronunciation": "mʉ̂a-waan gə̀ət à-rai khʉ̂n",
+    "meaning": "Happen; occur; be born",
+    "pronunciation": "gə̀ət",
+    "thai": "เกิด",
+    "page": 17
+  },
+  {
+    "id": "w138",
+    "example": "I can speak a little Thai.",
+    "examplePronunciation": "phǒm phûut phaa-sǎa-thai dâi nít-nɔ̀i",
+    "meaning": "Speak; talk",
+    "pronunciation": "phûut",
+    "thai": "พูด",
+    "page": 18
+  },
+  {
+    "id": "w139",
+    "example": "I went to bed early last night.",
+    "examplePronunciation": "mʉ̂a-khʉʉn phǒm nɔɔn reo",
+    "meaning": "Lie down; go to bed; sleep",
+    "pronunciation": "nɔɔn",
+    "thai": "นอน",
+    "page": 18
+  },
+  {
+    "id": "w140",
+    "example": "May I test it?",
+    "examplePronunciation": "khɔ̌ɔ thót-sɔ̀ɔp dâi-mǎi khráp",
+    "meaning": "Test; try out",
+    "pronunciation": "thót-sɔ̀ɔp",
+    "thai": "ทดสอบ",
+    "page": 18
+  },
+  {
+    "id": "w141",
+    "example": "I miss my family.",
+    "examplePronunciation": "phǒm khít-thʉ̌ng khrɔ̂ɔp-khrua",
+    "meaning": "Miss (someone); think of",
+    "pronunciation": "khít-thʉ̌ng",
+    "thai": "คิดถึง",
+    "page": 18
+  },
+  {
+    "id": "w142",
+    "example": "There is a lot of food here.",
+    "examplePronunciation": "thîi-nîi mii aa-hǎan-yə́",
+    "meaning": "Food; meal",
+    "pronunciation": "aa-hǎan",
+    "thai": "อาหาร",
+    "page": 18
+  },
+  {
+    "id": "w143",
+    "example": "I drink coffee every morning.",
+    "examplePronunciation": "phǒm dʉ̀ʉm gaa-fɛɛ thúk-cháo",
+    "meaning": "Coffee",
+    "pronunciation": "gaa-fɛɛ",
+    "thai": "กาแฟ",
+    "page": 18
+  },
+  {
+    "id": "w144",
+    "example": "I'd like Thai tea without sweetness.",
+    "examplePronunciation": "phǒm ao chaa-thai mâi-wǎan khráp",
+    "meaning": "Thai tea",
+    "pronunciation": "chaa-thai",
+    "thai": "ชาไทย",
+    "page": 18
+  },
+  {
+    "id": "w145",
+    "example": "Have you had a latte yet?",
+    "examplePronunciation": "khun dʉ̀ʉm laa-dtêe rʉ̌ʉ-yang",
+    "meaning": "Latte",
+    "pronunciation": "laa-dtêe",
+    "thai": "ลาเต้",
+    "page": 18
+  },
+  {
+    "id": "w146",
+    "example": "I don't want sugar, please.",
+    "examplePronunciation": "phǒm mâi-ao náam-dtaan khráp",
+    "meaning": "Sugar",
+    "pronunciation": "náam-dtaan",
+    "thai": "น ้าตาล",
+    "page": 18
+  },
+  {
+    "id": "w147",
+    "example": "Thai tea without added sugar, please.",
+    "examplePronunciation": "chaa-thai mâi-sài-náam-dtaan khráp",
+    "meaning": "No added sugar; don't add sugar",
+    "pronunciation": "mâi-sài-náam-dtaan",
+    "thai": "ไม่ใส่น ้าตาล",
+    "page": 18
+  },
+  {
+    "id": "w148",
+    "example": "My bike is almost out of fuel.",
+    "examplePronunciation": "rót phǒm náam-man glâi-mòt",
+    "meaning": "Oil; fuel",
+    "pronunciation": "náam-man",
+    "thai": "น ้ามัน",
+    "page": 18
+  },
+  {
+    "id": "w149",
+    "example": "Could you please leave out MSG?",
+    "examplePronunciation": "mâi-sài phǒng-chuu-rót dâi-mǎi khráp",
+    "meaning": "MSG; monosodium glutamate",
+    "pronunciation": "phǒng-chuu-rót",
+    "thai": "ผงชูรส",
+    "page": 18
+  },
+  {
+    "id": "w150",
+    "example": "I'll have pork fried rice.",
+    "examplePronunciation": "phǒm ao khâao-phàt-mǔu khráp",
+    "meaning": "Pork fried rice",
+    "pronunciation": "khâao-phàt-mǔu",
+    "thai": "ข้าวผัดหมู",
+    "page": 18
+  },
+  {
+    "id": "w151",
+    "example": "Pork fried rice with egg, please.",
+    "examplePronunciation": "khâao-phàt-mǔu sài khài khráp",
+    "meaning": "Egg",
+    "pronunciation": "khài",
+    "thai": "ไข่",
+    "page": 18
+  },
+  {
+    "id": "w152",
+    "example": "I can eat pork.",
+    "examplePronunciation": "phǒm gin mǔu dâi khráp",
+    "meaning": "Pork; pig",
+    "pronunciation": "mǔu",
+    "thai": "หมู",
+    "page": 18
+  },
+  {
+    "id": "w153",
+    "example": "I like eating vegetables.",
+    "examplePronunciation": "phǒm chɔ̂ɔp gin phàk",
+    "meaning": "Vegetable; vegetables",
+    "pronunciation": "phàk",
+    "thai": "ผัก",
+    "page": 18
+  },
+  {
+    "id": "w154",
+    "example": "I'll have noodles today.",
+    "examplePronunciation": "wan-níi phǒm ao gǔai-dtǐao khráp",
+    "meaning": "Noodles; noodle soup",
+    "pronunciation": "gǔai-dtǐao",
+    "thai": "ก๋วยเตี๋ยว",
+    "page": 18
+  },
+  {
+    "id": "w155",
+    "example": "I've already eaten lunch.",
+    "examplePronunciation": "phǒm gin khâao-thîang láew",
+    "meaning": "Lunch (colloquial; midday meal)",
+    "pronunciation": "khâao-thîang",
+    "thai": "ข้าวเที่ยง",
+    "page": 18
+  },
+  {
+    "id": "w156",
+    "example": "It's raining heavily today.",
+    "examplePronunciation": "wan-níi fǒn-dtòk nàk",
+    "meaning": "Rain; it's raining",
+    "pronunciation": "fǒn-dtòk",
+    "thai": "ฝนตก",
+    "page": 19
+  },
+  {
+    "id": "w157",
+    "example": "This area floods often.",
+    "examplePronunciation": "thǎew-níi náam-thûam bɔ̀i",
+    "meaning": "Flood; flooding",
+    "pronunciation": "náam-thûam",
+    "thai": "น ้าท่วม",
+    "page": 19
+  },
+  {
+    "id": "w158",
+    "example": "The power went out.",
+    "examplePronunciation": "fai dàp láew khráp",
+    "meaning": "Fire; light; electricity",
+    "pronunciation": "fai",
+    "thai": "ไฟ",
+    "page": 19
+  },
+  {
+    "id": "w159",
+    "example": "The sky looks beautiful today.",
+    "examplePronunciation": "wan-níi fáa sǔai",
+    "meaning": "Sky; blue (colloquial in compounds)",
+    "pronunciation": "fáa",
+    "thai": "ฟ้า",
+    "page": 19
+  },
+  {
+    "id": "w160",
+    "example": "The sky is beautiful today.",
+    "examplePronunciation": "thɔ́ɔng-fáa wan-níi sǔai",
+    "meaning": "Sky",
+    "pronunciation": "thɔ́ɔng-fáa",
+    "thai": "ท้องฟ้า",
+    "page": 19
+  },
+  {
+    "id": "w161",
+    "example": "The thunder is very loud tonight.",
+    "examplePronunciation": "khʉʉn-níi fáa-rɔ́ɔng dang mâak",
+    "meaning": "Thunder; it's thundering",
+    "pronunciation": "fáa-rɔ́ɔng",
+    "thai": "ฟ้าร้อง",
+    "page": 19
+  },
+  {
+    "id": "w162",
+    "example": "I saw a bat in the evening.",
+    "examplePronunciation": "phǒm hěn kháang-khaao dtɔɔn-yen",
+    "meaning": "Bat (animal)",
+    "pronunciation": "kháang-khaao",
+    "thai": "ค้างคาว",
+    "page": 19
+  },
+  {
+    "id": "w163",
+    "example": "This river is very beautiful.",
+    "examplePronunciation": "mâe-náam níi sǔai mâak",
+    "meaning": "River",
+    "pronunciation": "mâe-náam",
+    "thai": "แม่น ้า",
+    "page": 19
+  },
+  {
+    "id": "w164",
+    "example": "I don't want there to be war.",
+    "examplePronunciation": "phǒm mâi-yàak hâi mii sǒng-khraam",
+    "meaning": "War",
+    "pronunciation": "sǒng-khraam",
+    "thai": "สงคราม",
+    "page": 19
+  },
+  {
+    "id": "w165",
+    "example": "There's nothing special today.",
+    "examplePronunciation": "wan-níi mâi mii à-rai phí-sèet",
+    "meaning": "Nothing special",
+    "pronunciation": "mâi-mii-à-rai-phí-sèet",
+    "thai": "ไม่มีอะไรพิเศษ",
+    "page": 19
+  },
+  {
+    "id": "w166",
+    "example": "I wonder why they didn't come.",
+    "examplePronunciation": "phǒm sǒng-sǎi wâa tham-mai khǎo mâi maa",
+    "meaning": "To wonder; suspect",
+    "pronunciation": "sǒng-sǎi",
+    "thai": "สงสัย",
+    "page": 19
+  },
+  {
+    "id": "w167",
+    "example": "Please wear a helmet.",
+    "examplePronunciation": "sài mùak-gan-nɔ́k dûai ná",
+    "meaning": "Motorcycle helmet",
+    "pronunciation": "mùak-gan-nɔ́k",
+    "thai": "หมวกกันน็อก",
+    "page": 19
+  },
+  {
+    "id": "w168",
+    "example": "The sun is so strong today that my skin burns.",
+    "examplePronunciation": "wan-níi dàet raeng jon sàep-phǐw",
+    "meaning": "Skin stings; skin feels burned or irritated",
+    "pronunciation": "sàep-phǐw",
+    "thai": "แสบผิว",
+    "page": 19
+  },
+  {
+    "id": "w169",
+    "example": "It's dust season now.",
+    "examplePronunciation": "chûang-níi bpen rʉ́-duu-fùn",
+    "meaning": "Dust season; smog season",
+    "pronunciation": "rʉ́-duu-fùn",
+    "thai": "ฤดูฝุ่น",
+    "page": 19
+  },
+  {
+    "id": "w170",
+    "example": "I wake up at six in the morning.",
+    "examplePronunciation": "phǒm dtʉ̀ʉn hòk moong cháo",
+    "meaning": "To wake up",
+    "pronunciation": "dtʉ̀ʉn",
+    "thai": "ตื่น",
+    "page": 19
+  },
+  {
+    "id": "w171",
+    "example": "The sun rises in the morning.",
+    "examplePronunciation": "phrá-aa-thít khʉ̂n dtɔɔn cháo",
+    "meaning": "Sunrise; the sun rises",
+    "pronunciation": "phrá-aa-thít-khʉ̂n",
+    "thai": "พระอาทิตย์ขึ้น",
+    "page": 19
+  },
+  {
+    "id": "w172",
+    "example": "The price went up again.",
+    "examplePronunciation": "raa-khaa khʉ̂n ìik láew",
+    "meaning": "To go up; rise",
+    "pronunciation": "khʉ̂n",
+    "thai": "ขึ้น",
+    "page": 19
+  },
+  {
+    "id": "w173",
+    "example": "There are a lot of clouds today.",
+    "examplePronunciation": "wan-níi mii mêek yə́",
+    "meaning": "Cloud",
+    "pronunciation": "mêek",
+    "thai": "เมฆ",
+    "page": 20
+  },
+  {
+    "id": "w174",
+    "example": "The weather is terrible today.",
+    "examplePronunciation": "wan-níi aa-gàat yâe mâak",
+    "meaning": "Bad; terrible",
+    "pronunciation": "yâe",
+    "thai": "แย่",
+    "page": 20
+  },
+  {
+    "id": "w175",
+    "example": "I have a question.",
+    "examplePronunciation": "phǒm mii kham-thǎam khráp",
+    "meaning": "Question",
+    "pronunciation": "kham-thǎam",
+    "thai": "ค าถาม",
+    "page": 20
+  },
+  {
+    "id": "w176",
+    "example": "Could you recommend a coffee shop?",
+    "examplePronunciation": "náe-nam ráan gaa-fɛɛ nɔ̀i khráp",
+    "meaning": "To recommend; suggest",
+    "pronunciation": "náe-nam",
+    "thai": "แนะน า",
+    "page": 20
+  },
+  {
+    "id": "w177",
+    "example": "I know now.",
+    "examplePronunciation": "phǒm rúu láew",
+    "meaning": "To know",
+    "pronunciation": "rúu",
+    "thai": "รู้",
+    "page": 20
+  },
+  {
+    "id": "w178",
+    "example": "Sure, of course!",
+    "examplePronunciation": "dâi-loei khráp",
+    "meaning": "Sure; absolutely; of course",
+    "pronunciation": "dâi-loei",
+    "thai": "ได้เลย",
+    "page": 20
+  },
+  {
+    "id": "w179",
+    "example": "Let me introduce myself.",
+    "examplePronunciation": "phǒm khɔ̌ɔ náe-nam-dtua khráp",
+    "meaning": "To introduce oneself",
+    "pronunciation": "náe-nam-dtua",
+    "thai": "แนะน าตัว",
+    "page": 20
+  },
+  {
+    "id": "w180",
+    "example": "I've lived in Thailand since last year.",
+    "examplePronunciation": "phǒm yùu mʉang-thai dtâng-dtàe bpii-thîi-láew",
+    "meaning": "Since; from (a point in time)",
+    "pronunciation": "dtâng-dtàe",
+    "thai": "ตั้งแต่",
+    "page": 20
+  },
+  {
+    "id": "w181",
+    "example": "I feel too lazy to work today.",
+    "examplePronunciation": "wan-níi phǒm khîi-gìat tham-ngaan",
+    "meaning": "Lazy; to feel lazy",
+    "pronunciation": "khîi-gìat",
+    "thai": "ขี้เกียจ",
+    "page": 20
+  },
+  {
+    "id": "w182",
+    "example": "I'm hungry now.",
+    "examplePronunciation": "phǒm hǐw láew",
+    "meaning": "Hungry",
+    "pronunciation": "hǐw",
+    "thai": "หิว",
+    "page": 20
+  },
+  {
+    "id": "w183",
+    "example": "I come here often.",
+    "examplePronunciation": "phǒm maa thîi-nîi bɔ̀i",
+    "meaning": "Often; frequently",
+    "pronunciation": "bɔ̀i",
+    "thai": "บ่อย",
+    "page": 20
+  },
+  {
+    "id": "w184",
+    "example": "It's up to you.",
+    "examplePronunciation": "láew-dtàe khun loei",
+    "meaning": "It depends; up to (someone)",
+    "pronunciation": "láew-dtàe",
+    "thai": "แล้วแต่",
+    "page": 20
+  },
+  {
+    "id": "w185",
+    "example": "I ride a bicycle every morning.",
+    "examplePronunciation": "phǒm khìi jàk-grà-yaan thúk-cháo",
+    "meaning": "Bicycle",
+    "pronunciation": "jàk-grà-yaan",
+    "thai": "จักรยาน",
+    "page": 20
+  },
+  {
+    "id": "w186",
+    "example": "It's raining outside.",
+    "examplePronunciation": "khâang-nɔ̂ɔk fǒn-dtòk",
+    "meaning": "Outside",
+    "pronunciation": "khâang-nɔ̂ɔk",
+    "thai": "ข้างนอก",
+    "page": 20
+  },
+  {
+    "id": "w187",
+    "example": "My home is in this neighborhood.",
+    "examplePronunciation": "bâan phǒm yùu nai mùu-bâan níi",
+    "meaning": "Village; residential neighborhood",
+    "pronunciation": "mùu-bâan",
+    "thai": "หมู่บ้าน",
+    "page": 20
+  },
+  {
+    "id": "w188",
+    "example": "This is for you.",
+    "examplePronunciation": "an-níi sǎm-ràp khun",
+    "meaning": "For; intended for",
+    "pronunciation": "sǎm-ràp",
+    "thai": "ส าหรับ",
+    "page": 20
+  },
+  {
+    "id": "w189",
+    "example": "The phone is on the table.",
+    "examplePronunciation": "thoo-rá-sàp yùu bon dtó",
+    "meaning": "On; above",
+    "pronunciation": "bon",
+    "thai": "บน",
+    "page": 20
+  },
+  {
+    "id": "w190",
+    "example": "Could I have some ice, please?",
+    "examplePronunciation": "khɔ̌ɔ náam-khǎeng nɔ̀i khráp",
+    "meaning": "Ice",
+    "pronunciation": "náam-khǎeng",
+    "thai": "น ้าแข็ง",
+    "page": 20
+  },
+  {
+    "id": "w191",
+    "example": "This bread is very hard.",
+    "examplePronunciation": "khà-nǒm-bpang níi khǎeng mâak",
+    "meaning": "Hard; firm; solid",
+    "pronunciation": "khǎeng",
+    "thai": "แข็ง",
+    "page": 20
+  },
+  {
+    "id": "w192",
+    "example": "Sticky rice is delicious.",
+    "examplePronunciation": "khâao-nǐao à-rɔ̀i mâak",
+    "meaning": "Sticky; chewy",
+    "pronunciation": "nǐao",
+    "thai": "เหนียว",
+    "page": 21
+  },
+  {
+    "id": "w193",
+    "example": "I like eating mangoes.",
+    "examplePronunciation": "phǒm chɔ̂ɔp gin má-mûang",
+    "meaning": "Mango",
+    "pronunciation": "má-mûang",
+    "thai": "มะม่วง",
+    "page": 21
+  },
+  {
+    "id": "w194",
+    "example": "I think so too.",
+    "examplePronunciation": "phǒm gâw khít mʉ̌an-gan",
+    "meaning": "Same; also; likewise",
+    "pronunciation": "mʉ̌an-gan",
+    "thai": "เหมือนกัน",
+    "page": 21
+  },
+  {
+    "id": "w195",
+    "example": "Is Thai difficult?",
+    "examplePronunciation": "phaa-sǎa-thai yâak mǎi",
+    "meaning": "Difficult; hard (to do)",
+    "pronunciation": "yâak",
+    "thai": "ยาก",
+    "page": 21
+  },
+  {
+    "id": "w196",
+    "example": "This is really funny.",
+    "examplePronunciation": "rʉ̂ang níi dtà-lòk mâak",
+    "meaning": "Funny; amusing",
+    "pronunciation": "dtà-lòk",
+    "thai": "ตลก",
+    "page": 21
+  },
+  {
+    "id": "w197",
+    "example": "I don't write Thai very well.",
+    "examplePronunciation": "phǒm khǐan phaa-sǎa-thai mâi-gèng",
+    "meaning": "To write",
+    "pronunciation": "khǐan",
+    "thai": "เขียน",
+    "page": 21
+  },
+  {
+    "id": "w198",
+    "example": "How many siblings do you have?",
+    "examplePronunciation": "khun mii phîi-nɔ́ɔng gìi khon",
+    "meaning": "Siblings; brothers and sisters",
+    "pronunciation": "phîi-nɔ́ɔng",
+    "thai": "พี่น้อง",
+    "page": 21
+  },
+  {
+    "id": "w199",
+    "example": "My older sibling lives in Bangkok.",
+    "examplePronunciation": "phîi phǒm yùu grung-thêep",
+    "meaning": "Older sibling; older person (familiar address)",
+    "pronunciation": "phîi",
+    "thai": "พี่",
+    "page": 21
+  },
+  {
+    "id": "w200",
+    "example": "My younger sibling is studying.",
+    "examplePronunciation": "nɔ́ɔng phǒm rian yùu",
+    "meaning": "Younger sibling; younger person (familiar address)",
+    "pronunciation": "nɔ́ɔng",
+    "thai": "น้อง",
+    "page": 21
+  },
+  {
+    "id": "w201",
+    "example": "My older brother works here.",
+    "examplePronunciation": "phîi-chaai phǒm tham-ngaan thîi-nîi",
+    "meaning": "Older brother",
+    "pronunciation": "phîi-chaai",
+    "thai": "พี่ชาย",
+    "page": 21
+  },
+  {
+    "id": "w202",
+    "example": "My younger brother likes football.",
+    "examplePronunciation": "nɔ́ɔng-chaai phǒm chɔ̂ɔp fút-bɔɔn",
+    "meaning": "Younger brother",
+    "pronunciation": "nɔ́ɔng-chaai",
+    "thai": "น้องชาย",
+    "page": 21
+  },
+  {
+    "id": "w203",
+    "example": "My older sister is a teacher.",
+    "examplePronunciation": "phîi-sǎao phǒm bpen khruu",
+    "meaning": "Older sister",
+    "pronunciation": "phîi-sǎao",
+    "thai": "พี่สาว",
+    "page": 21
+  },
+  {
+    "id": "w204",
+    "example": "My younger sister is at home.",
+    "examplePronunciation": "nɔ́ɔng-sǎao phǒm yùu bâan",
+    "meaning": "Younger sister",
+    "pronunciation": "nɔ́ɔng-sǎao",
+    "thai": "น้องสาว",
+    "page": 21
+  },
+  {
+    "id": "w205",
+    "example": "He or she has arrived.",
+    "examplePronunciation": "khǎo maa láew",
+    "meaning": "He; she; they (context-dependent)",
+    "pronunciation": "khǎo",
+    "thai": "เขา",
+    "page": 21
+  },
+  {
+    "id": "w206",
+    "example": "I feel better today.",
+    "examplePronunciation": "wan-níi phǒm dii-khʉ̂n láew",
+    "meaning": "Get better; improve",
+    "pronunciation": "dii-khʉ̂n",
+    "thai": "ดีขึ้น",
+    "page": 21
+  },
+  {
+    "id": "w207",
+    "example": "My ear hurts.",
+    "examplePronunciation": "phǒm jèp hǔu",
+    "meaning": "Ear",
+    "pronunciation": "hǔu",
+    "thai": "หู",
+    "page": 21
+  },
+  {
+    "id": "w208",
+    "example": "I listen to music every day.",
+    "examplePronunciation": "phǒm fang phleeng thúk-wan",
+    "meaning": "To listen",
+    "pronunciation": "fang",
+    "thai": "ฟัง",
+    "page": 21
+  },
+  {
+    "id": "w209",
+    "example": "My headphones are broken.",
+    "examplePronunciation": "hǔu-fang phǒm sǐa",
+    "meaning": "Headphones; earphones",
+    "pronunciation": "hǔu-fang",
+    "thai": "หูฟัง",
+    "page": 21
+  },
+  {
+    "id": "w210",
+    "example": "I bought a new phone.",
+    "examplePronunciation": "phǒm sʉ́ʉ thoo-rá-sàp mài",
+    "meaning": "New",
+    "pronunciation": "mài",
+    "thai": "ใหม่",
+    "page": 22
+  }
+]
