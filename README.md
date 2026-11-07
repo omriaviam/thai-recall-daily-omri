@@ -27,3 +27,7 @@ Audio uses Microsoft Thai neural TTS: Premwadee, with Niwat for w073. MP3 files 
 
 Source PDF is not redistributed. Keep only the application files above in the Pages deployment; preview PNGs and this README are optional.
 
+
+## 7 November 2026 update
+Added 35 new words and phrases from the two supplied lesson-note images (245 cards total). Existing vocabulary was deduplicated by Thai word, including alternate romanizations. New cards retain the supplied romanization; only examples present in the notes are shown. Missing examples are hidden. The unambiguous rao variant is used for We / Us; the ambiguous phuo-gan variant was not synthesized. Thai spellings for new audio were reconstructed from the meanings and romanizations because the images contain no Thai script. The New filter shows this batch. Existing IDs and browser progress keys remain unchanged.
+
